@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter development**
 
-- 🌱 I’m currently Studying **FCIS MU.**
+- 🌱 I’m graduated From **FCIS MU.**
 
 - 📫 How to reach me **nourabokora@gmail.com**
 
