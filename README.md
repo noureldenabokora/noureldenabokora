@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour AboKora</h1>
-<h3 align="center">Software engineer passionate about Mobile Programming</h3>
+<h3 align="center">Software engineer passionate about Mobile Programming with Flutter </h3>
 
 - 🔭 I’m currently working on **Flutter development**
 
