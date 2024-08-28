@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nour AboKora</h1>
-<h3 align="center">Software engineer passionate about Mobile Programming with Flutter </h3>
+<h3 align="center">Software engineer passionate about.Net  Development </h3>
 
-- 🔭 I’m currently working on **Flutter development**
+- 🔭 I’m currently working on **Back end development**
 
 - 🌱 I’m graduated From **FCIS MU.**
 
