@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nour AboKora</h1>
-<h3 align="center">Software engineer passionate about.Net  Development </h3>
+<h3 align="center">Software engineer passionate about Back End </h3>
 
-- 🔭 I’m currently working on **Back end development**
+- 🔭 I’m currently working on **Back End (.Net Technologies )**
 
 - 🌱 I’m graduated From **FCIS MU.**
 
