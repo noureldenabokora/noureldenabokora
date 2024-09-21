@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nourabokora@gmail.com**
 
-- ⚡ Fun fact **I am a professional PES Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
